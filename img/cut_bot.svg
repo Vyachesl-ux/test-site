@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="120" viewBox="0 0 1920 120">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="cut_bot.svg" class="cls-1" d="M0,740S480.049,640,960.073,640C1440.05,640,1920,740,1920,740v20H0V740Z" transform="translate(0 -640)"/>
+</svg>
+
