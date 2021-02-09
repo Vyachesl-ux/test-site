@@ -311,6 +311,18 @@ header{
 		/*display: none;*/
 	}
 }
+@media(max-width: 567px){
+	.slogan_subimage>img{
+		transform:scale(1);
+		margin-bottom: 60px;
+	}
+	.slogan_title{
+		margin-bottom: 60px;
+		font-size: 20px;
+		width: 100%;
+		padding: 10px 10px 10px 0;
+	}
+}
 
 
 .request-order{
@@ -931,7 +943,7 @@ height: 100%;
 @media(max-width: 768px){
 	.advantages__block{
 		display: block;
-		width: 100%;
+		width: 24%;
 		/*max-width: 160px;*/
 		margin-top: 10px;
 
@@ -959,7 +971,7 @@ height: 100%;
 		font-family: 'Fira Sans', serif;
 	}
 }
-@media(max-width: 375px){
+@media(max-width: 567px){
 	.advantages__title{
 		font-size: 10px;
 	}
